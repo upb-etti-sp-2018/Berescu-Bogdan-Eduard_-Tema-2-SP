@@ -1,4 +1,4 @@
-%Numar de ordine: 14
+%Numar de ordine: 2
 
 P = 40; %Perioada
 
